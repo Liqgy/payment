@@ -1,0 +1,51 @@
+﻿Customer ID,Purchase Amount (USD),Payment Method,Preferred Payment Method,Subscription Status,Promo Code Used,Discount Applied
+1,53,Credit Card,Venmo,Yes,Yes,Yes
+2,64,Bank Transfer,Cash,Yes,Yes,Yes
+3,73,Cash,Credit Card,Yes,Yes,Yes
+4,90,PayPal,PayPal,Yes,Yes,Yes
+5,49,Cash,PayPal,Yes,Yes,Yes
+6,20,Venmo,Venmo,Yes,Yes,Yes
+7,85,Debit Card,Cash,Yes,Yes,Yes
+8,34,Debit Card,Credit Card,Yes,Yes,Yes
+9,97,Venmo,Venmo,Yes,Yes,Yes
+10,31,PayPal,Cash,Yes,Yes,Yes
+11,34,Credit Card,Bank Transfer,Yes,Yes,Yes
+12,68,PayPal,Bank Transfer,Yes,Yes,Yes
+13,72,PayPal,Venmo,Yes,Yes,Yes
+14,51,Debit Card,PayPal,Yes,Yes,Yes
+15,53,PayPal,Debit Card,Yes,Yes,Yes
+16,81,Credit Card,PayPal,Yes,Yes,Yes
+17,36,Venmo,Debit Card,Yes,Yes,Yes
+18,38,Debit Card,Venmo,Yes,Yes,Yes
+19,48,Bank Transfer,Cash,Yes,Yes,Yes
+20,90,Venmo,Debit Card,Yes,Yes,Yes
+21,51,Credit Card,Cash,Yes,Yes,Yes
+22,62,Credit Card,Debit Card,Yes,Yes,Yes
+23,37,Cash,Debit Card,Yes,Yes,Yes
+24,88,Credit Card,Credit Card,Yes,Yes,Yes
+25,22,Cash,Debit Card,Yes,Yes,Yes
+26,25,Bank Transfer,PayPal,Yes,Yes,Yes
+27,20,Cash,Credit Card,Yes,Yes,Yes
+28,56,Debit Card,Bank Transfer,Yes,Yes,Yes
+29,94,Debit Card,PayPal,Yes,Yes,Yes
+30,48,Venmo,Credit Card,Yes,Yes,Yes
+31,31,Bank Transfer,Credit Card,Yes,Yes,Yes
+32,79,Venmo,Venmo,Yes,Yes,Yes
+33,67,Bank Transfer,Venmo,Yes,Yes,Yes
+34,38,Venmo,Cash,Yes,Yes,Yes
+35,91,Debit Card,PayPal,Yes,Yes,Yes
+36,33,Bank Transfer,Credit Card,Yes,Yes,Yes
+37,69,Cash,PayPal,Yes,Yes,Yes
+38,45,Debit Card,PayPal,Yes,Yes,Yes
+39,37,Debit Card,Venmo,Yes,Yes,Yes
+40,60,Bank Transfer,Credit Card,Yes,Yes,Yes
+41,76,PayPal,Debit Card,Yes,Yes,Yes
+42,39,Cash,Venmo,Yes,Yes,Yes
+43,100,Bank Transfer,PayPal,Yes,Yes,Yes
+44,69,PayPal,PayPal,Yes,Yes,Yes
+45,53,Bank Transfer,PayPal,Yes,Yes,Yes
+46,21,Venmo,PayPal,Yes,Yes,Yes
+47,43,Venmo,Cash,Yes,Yes,Yes
+48,54,Debit Card,Cash,Yes,Yes,Yes
+49,55,Debit Card,Cash,Yes,Yes,Yes
+50,30,Bank Transfer,Debit Card,Yes,Yes,Yes
